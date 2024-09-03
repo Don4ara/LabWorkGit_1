@@ -2,7 +2,7 @@
   <div id="app">
     <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4 d-flex">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Lab Coffee</a>
+        <a class="navbar-brand" href="#">Lab Coffee Git</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -26,6 +26,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">О нас</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Что-то</a>
             </li>
           </ul>
         </div>
